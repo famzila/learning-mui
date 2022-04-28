@@ -1,6 +1,8 @@
-## Learning MUI
+## Portfolio app with React & MUI
   This repository is kind of personnal website to learn Material UI design. 
   This web app contain home, blog and e-book page.
+ 
+## [See it on live](https://learning-mui.vercel.app/home) 
 
 ## Getting started
 
